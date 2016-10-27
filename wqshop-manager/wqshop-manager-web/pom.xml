@@ -54,11 +54,11 @@
             <artifactId>spring-test</artifactId>
             <version>4.2.5.RELEASE</version>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>fastdfs_client</groupId>-->
-            <!--<artifactId>fastdfs_client</artifactId>-->
-            <!--<version>1.25</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>com.github.tobato</groupId>
+            <artifactId>fastdfs-client</artifactId>
+            <version>1.25.2-RELEASE</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
